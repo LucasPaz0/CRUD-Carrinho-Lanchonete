@@ -4,10 +4,10 @@ Projeto de CRUD simples em Python para simular um carrinho de compras de uma lan
 
 Este projeto foi criado para aplicar conceitos de DevOps, como:
 
-Controle de versão (Git/GitHub)
+1. Controle de versão (Git/GitHub)
 
-Integração Contínua (CI com GitHub Actions)
+2. Integração Contínua (CI com GitHub Actions)
 
-Entrega Contínua (CD com DockerHub)
+3. Entrega Contínua (CD com DockerHub)
 
-Contêinerização (Docker)
+4. Contêinerização (Docker)
