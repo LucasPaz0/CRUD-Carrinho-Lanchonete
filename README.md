@@ -11,3 +11,5 @@ Este projeto foi criado para aplicar conceitos de DevOps, como:
 3. Entrega Contínua (CD com DockerHub)
 
 4. Contêinerização (Docker)
+
+5. Monitoramento (Prometheus/Grafana/cAdvisor)
