@@ -13,3 +13,5 @@ Este projeto foi criado para aplicar conceitos de DevOps, como:
 4. Contêinerização (Docker)
 
 5. Monitoramento (Prometheus/Grafana/cAdvisor)
+
+6. IaC (Terraform/AWS)
